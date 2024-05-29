@@ -3,5 +3,7 @@
   <groupId>AEICP</groupId>
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <properties></properties>
+  <properties>
+    <test></test>
+  </properties>
 </project>

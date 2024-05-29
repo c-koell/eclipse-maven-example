@@ -4,6 +4,6 @@
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-    <test></test>
+    <test>123423423</test>
   </properties>
 </project>

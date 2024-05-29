@@ -5,5 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <properties>
     <test>123423423</test>
+    <test2>34453543</test2>
   </properties>
 </project>

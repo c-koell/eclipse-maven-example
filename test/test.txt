@@ -14,7 +14,10 @@ lokale Änderung 10
 lokale Änderung 11
 lokale Änderung 12
 lokale Änderung 13
+<<<<<<< Upstream, based on origin/master
 ....X2
+=======
+>>>>>>> 389fdd4 Lokale Änderung 13
 14
 15
 16

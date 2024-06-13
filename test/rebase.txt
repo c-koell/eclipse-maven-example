@@ -5,3 +5,4 @@ remote4
 remote5
 remote6
 local1
+local2

@@ -8,5 +8,5 @@ remote4
 remote5
 remote6
 local1
-local2
+local2_1
 remote_1

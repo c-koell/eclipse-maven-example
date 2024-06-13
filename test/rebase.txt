@@ -10,3 +10,4 @@ remote6
 local1
 local2_1_2_3
 remote_1_2_3
+local ...
